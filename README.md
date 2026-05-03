@@ -42,6 +42,8 @@ Prediction
 # Results
 Best performing Model: SVM model
 <img width="658" height="583" alt="image" src="https://github.com/user-attachments/assets/044d7959-19fe-49ea-a9fe-3eddcea13032" />
+
 <img width="625" height="481" alt="image" src="https://github.com/user-attachments/assets/87219f6f-9d89-4247-b2e7-1ba08402be0b" />
+
 <img width="982" height="607" alt="image" src="https://github.com/user-attachments/assets/8ca6406a-7720-4e6c-80e3-1c1f982736a2" />
 
